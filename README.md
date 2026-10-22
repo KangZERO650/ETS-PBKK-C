@@ -2,9 +2,9 @@ Nama: Aminudin Wijaya
 NRP: 5025241242  
 Kelas: Pemrograman Berbasis Kerangka Kerja \- C
 
-Soal.
+# Soal.
 
-1. Jelaskan perbedaan aplikasi desktop dengan aplikasi lain? Mengapa masih dibutuhkan  
+## 1. Jelaskan perbedaan aplikasi desktop dengan aplikasi lain? Mengapa masih dibutuhkan  
    
 
 | Parameter Evaluasi | Aplikasi Desktop | Aplikasi berbasis Web (PWA) | Aplikasi Mobile (IOS/Android) | Web-Wrapper (Electron/WebView2) |
@@ -16,7 +16,7 @@ Soal.
 
    Kesimpulan: Aplikasi Desktop masih diperlukan terutama untuk aplikasi-aplikasi yang mengandalkan performa, atau untuk memaksimalkan *Computing Power* yang dimiliki oleh perangkat desktop. Salah satu contoh penggunaannya adalah aplikasi desktop untuk menampilkan data telemetri penting terkait performa sebuah sistem yang wajib *Realtime*. Sebagai contoh, sistem telemetri untuk performa mobil balap Formula One.
 
-2. Tuliskan problem yang akan diselesaikan oleh aplikasi yang kamu buat? Definisikan fitur aplikasi yang merupakan solusi dari problem tersebut.   
+## 2. Tuliskan problem yang akan diselesaikan oleh aplikasi yang kamu buat? Definisikan fitur aplikasi yang merupakan solusi dari problem tersebut.   
    Problem yang ingin diselesaikan oleh Aplikasi SIHIFA (Sistem Informasi Hiburan dan Media Favorit).  
 - Fragmentasi Data terkait Hobi dan hiburan: Setiap segment hobi dan hiburan biasa nya memiliki platform nya masing-masing untuk menyimpan database informasi. Sebagai contoh seperti MAL (MyAnimeList) untuk database Anime, Manga, dan jejepangan lainnya, Letterboxd untuk film, Spotify untuk musik, Notion untuk materi pengetahuan, dan sebagai nya.  
 - Ketergantungan terhadap platform pihak ketiga: Karena platform-platform tersebut adalah platform pihak ketiga, tidak ada jaminan untuk di kemudian hari platform tersebut akan tetap exist dan dapat kita gunakan
