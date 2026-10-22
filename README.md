@@ -27,3 +27,7 @@ Solusi yang dibawakan oleh Aplikasi SIHIFA (Sistem Informasi Hiburan dan
 - Manajemen database/koleksi lintas Hobi dan Hiburan: SIHIFA mampu menampung banyak sekali kategori-kategori hobi maupun hiburan seperti Anime, Film, Buku, Musik dan lain sebagainya. Membuatnya menjadi satu platform tersentral untuk tempat kita menyimpan dan mengeksplorasi konten terkait Hobi dan Hiburan.  
 - Offline-first dan Open Source: SIHIFA kami bangun dengan prinsip offline-first serta kode nya juga dibuat sebagai *Open Source* yang menghilangkan kekhawatiran atas pembatasan maupun hilangnya akses yang dapat terjadi jika kita menggunakan platform pihak ketiga.
 
+## 3. Buat Poster Infografis aplikasi yang telah dibuat dalam 1 halaman.
+<img width="800" height="1905" alt="Infografis SIHIFA" src="https://github.com/user-attachments/assets/ff9677de-2b55-4065-a060-9604bca1db9f" />
+
+
